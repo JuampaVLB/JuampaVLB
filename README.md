@@ -1,30 +1,9 @@
 
-<a href="https://imgur.com/jddqpDk"><img src="https://i.imgur.com/jddqpDk.jpg" title="source: imgur.com" height = "500px" width = "100%"/></a>
+# @JuampaVLB
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Juan Pablo Villalba</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Argentine.</h3>
+Hello 👋 My name is Juan Pablo and I am IT technician and full stack devoloper focused on back end.
 
-<br/>
-<br/>
-<br/>
-
-## 🙋‍♂️ About Me
-
-- 🔍 I’m currently looking for a **job**
-
-- 💻 I’m currently learning **Data Structures, Mongo DB, Express Js, React Js, Node Js and Javascript.**
-
-- 📕 All of my projects are available at **[My Portfolio](https://developernaimul.com)**
-
-- 📫 How to reach me **contact.juampavlb@gmail.com**
-
-- 💻 I have fun programming new **ideas and systems** that are different and unique from others.
-
-<br/>
-<br/>
-<br/>
-
-## 🚀 Languages and Tools:
+## My skills 🎨
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -41,23 +20,8 @@
     
 </p>
 
+## Where to find me 📍
 
-<br/>
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/developernaimul"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/developernaimul"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/developernaimul/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCPQYGEOx4eC0vWYWAFCTW4Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=developernaimul">
-</a>
-<a href="https://github.com/developernaimul?tab=followers"><img src="https://img.shields.io/github/followers/developernaimul?label=Followers&style=social" alt="GitHub Badge"></a>
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/JuampaVLB)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/JuampaVLB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanpablovillalba/)
