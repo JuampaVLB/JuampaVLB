@@ -1,6 +1,6 @@
  #  @JuampaVLB
 
-Hello 👋 My name is Juan Pablo and I am IT technician and full stack devoloper focused on back end.
+¡Hola! 👋 Mi nombre es Juan Pablo y soy técnico informático y desarrollador Full Stack enfocado en el back-end.
 
 ## My skills 🎨
 
