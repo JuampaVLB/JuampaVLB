@@ -24,4 +24,4 @@
 [![Twitter](https://img.shields.io/badge/Email-red?&style=for-the-badge&logo=mastodon&logoColor=white)](mailto:contact.juampavlb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanpablovillalba/)
 
-#  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVkNzMwZjliZjM4MjA3YjMzN2I1N2IwZjY1MmIxYTA3Nzk5ZTU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/10zxDv7Hv5RF9C/giphy.gif"/>
+#  <img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif"/>
