@@ -18,7 +18,7 @@
     
 </p>
 
-## Donde encontrarme ? 📍
+## Contacto 📍
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/JuampaVLB)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/JuampaVLB)
