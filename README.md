@@ -2,7 +2,7 @@
 
 ¡Hola! 👋 Mi nombre es Juan Pablo, tengo 17 años y soy técnico informático y desarrollador Full Stack enfocado en el back-end.
 
-## My skills 🎨
+## Mis habilidades 🎨
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -18,7 +18,7 @@
     
 </p>
 
-## Where to find me 📍
+## Donde encontrarme ? 📍
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/JuampaVLB)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/JuampaVLB)
