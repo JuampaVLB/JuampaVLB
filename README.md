@@ -1,6 +1,6 @@
  #  @JuampaVLB
 
-¡Hola! 👋 Mi nombre es Juan Pablo, tengo 18 años y soy técnico informático y desarrollador Full Stack enfocado en el back-end.
+¡Hola! 👋 Mi nombre es Juan Pablo, tengo 18 años y soy estudiante en la tecnicatura de tecnico en informática personal y profesional y autodidacta desarrollador Full Stack.
 
 ## Mis habilidades 🎨
 
