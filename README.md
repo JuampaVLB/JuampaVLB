@@ -19,8 +19,7 @@ Soy un desarrollador full Stack web y mobile. Además, soy técnico profesional 
 
 
 ## Experiencia 💼
-
-![Component 1](https://github.com/JuampaVLB/JuampaVLB/assets/89561539/3bfc1585-cb1a-40b8-9541-e809ac5f353b)
+![Component 3](https://github.com/JuampaVLB/JuampaVLB/assets/89561539/17ef897a-b914-4b82-a502-ed0d1a3f3d02)
 
 
 
