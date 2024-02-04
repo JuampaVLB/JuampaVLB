@@ -4,6 +4,9 @@
 
 <img src="https://github.com/JuampaVLB/JuampaVLB/assets/89561539/4ab8a602-74f5-4125-be1d-df020f6b3b7f" alt="Banner"  />
 
+
+
+
 ## Sobre mí 🚀
 
 Soy un desarrollador full Stack web y mobile. Además, soy técnico profesional y personal en informática y actualmente estoy cursando Licenciatura en Informática para expandir mis conocimientos y habilidades.
@@ -13,15 +16,15 @@ Soy un desarrollador full Stack web y mobile. Además, soy técnico profesional 
 - 🎓 Graduado como Técnico en Informática Profesional y Personal.
 - 📚 Estudiante de licenciatura en Informática.
 
-## Mis Proyectos en YouTube 🎥
 
-| Video | Descripción |
-| --- | --- |
-| [![Exponiendo Petzify](https://github.com/Maximiliano17/Maximiliano17/blob/main/exponer.jpeg)](https://youtu.be/sd4FjQaW0-4?si=TUO17ob9NP3Eb_m9) | Nos complace compartir que tuvimos la oportunidad de presentar nuestro emocionante proyecto, Petzify, en las instalaciones de la Escuela Técnica Secundaria Número 5. Durante la exposición, destacamos cada aspecto crucial de nuestro proyecto, mostrando en una detallada diapositiva las diversas vistas y partes que lo componen. |
-| [![Olimpiadas De informática](https://github.com/Maximiliano17/Maximiliano17/blob/main/%2300BF63%20(1).png)](https://www.youtube.com/watch?v=nyaAW60Vbw8)| Una solución digital para el protocolo médico conocido como "Código Azul", que se caracteriza por activar dos alarmas que requieren la presencia de personal médico. Esta solución debe permitir el acceso mediante un sistema de autenticación basado en usuario y contraseña, ofreciendo una serie de funcionalidades clave. |
-| [![¿Que es petzify?](https://github.com/Maximiliano17/Maximiliano17/blob/main/%2300BF63.png)](https://youtu.be/CM9TmrkvC6I?si=IY-_ba2--T7wiKfm) | Petzify es una red social especializada en animales domésticos que proporciona a los dueños de mascotas un entorno dedicado a compartir sus experiencias con sus compañeros peludos, poder buscar mascotas perdidas, comprar y vender artículos relacionadas a las mascotas y mucho más!. |
 
-## Mis Habilidades
+## Experiencia 💼
+
+![Component 1](https://github.com/JuampaVLB/JuampaVLB/assets/89561539/3bfc1585-cb1a-40b8-9541-e809ac5f353b)
+
+
+
+## Habilidades
 
 ### Frontend
 
@@ -45,6 +48,9 @@ Soy un desarrollador full Stack web y mobile. Además, soy técnico profesional 
 <p align="left">
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
  </p>
+
+
+
 
 ## Contacto 📧
 
