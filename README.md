@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy Juan pablo Villalba. 🟡
 
-[![Banner](https://github.com/Maximiliano17/Maximiliano17/blob/main/Untitled%20(31).png)](https://github.com/Maximiliano17)
+<img src="https://github.com/JuampaVLB/JuampaVLB/assets/89561539/4ab8a602-74f5-4125-be1d-df020f6b3b7f" alt="Banner"  />
 
 ## Sobre mí 🚀
 
