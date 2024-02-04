@@ -7,7 +7,7 @@
 
 
 
-## Sobre mí 🚀
+# Sobre mí 🚀
 
 Soy un desarrollador full Stack web y mobile. Además, soy técnico profesional y personal en informática y actualmente estoy cursando Licenciatura en Informática para expandir mis conocimientos y habilidades.
 
@@ -18,12 +18,12 @@ Soy un desarrollador full Stack web y mobile. Además, soy técnico profesional 
 
 
 
-## Experiencia 💼
+# Experiencia 💼
 ![Component 3](https://github.com/JuampaVLB/JuampaVLB/assets/89561539/17ef897a-b914-4b82-a502-ed0d1a3f3d02)
 
 
 
-## Habilidades
+# Habilidades
 
 ### Frontend
 
@@ -63,7 +63,7 @@ Soy un desarrollador full Stack web y mobile. Además, soy técnico profesional 
 
 
 
-## Contacto 📧
+# Contacto 📧
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/JuampaVLB)
 [![Twitter](https://img.shields.io/badge/Email-red?&style=for-the-badge&logo=mastodon&logoColor=white)](mailto:contact.juampavlb@gmail.com)
