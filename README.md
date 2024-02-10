@@ -27,38 +27,92 @@ Soy un desarrollador full Stack web y mobile. Además, soy técnico profesional 
 
 ### Frontend
 
-<p align="left">
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   &nbsp; &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   &nbsp; &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   &nbsp; &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/jquery-icon-2018x2048-nrk2gcih.png" alt="jquery" width="40" height="40"/> </a>   &nbsp; &nbsp; <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>   &nbsp; &nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  &nbsp; &nbsp;  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://dh.library.virginia.edu/system/files/styles/large/private/bootstrap-stack.png?itok=b_S8F9nO" alt="bootstrap" width="40" height="40"/> </a>
- </p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+</div>
 
 ### Backend
 
-<p align="left">
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   &nbsp; &nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>   &nbsp; &nbsp;  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="php" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="php" width="40" height="40"/> </a>
- </p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  &nbsp; &nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="php" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://socket.io/" target="_blank" rel="noreferrer">
+  <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="php" width="40" height="40"/>
+</div>
+
 
 ### Mobile
 
 <p align="left">
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>   &nbsp; &nbsp; <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353722/expo.svg" alt="expo" width="40" height="40"/> </a>
+ <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />  &nbsp; &nbsp; <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353722/expo.svg" alt="expo" width="40" height="40"/> </a>
  </p>
 
 
 ### Databases
 
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+</div>
+
 
 ### Little used
-<p align="left">
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="Csharp" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://learn.microsoft.com/es-es/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://learn.microsoft.com/es-es/dotnet/visual-basic/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/28/28908.png" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40"/> </a>
-</p>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+</div>
 
 ### Tools
-<p align="left">
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp; &nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  &nbsp; &nbsp; <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  &nbsp; &nbsp;  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  &nbsp; &nbsp; <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  &nbsp; &nbsp;  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  &nbsp; <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=140479881486&campaign=18442480203&creative=656562805651&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73335832032&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQiA5fetBhC9ARIsAP1UMgHkTyd9nbCfe2s6_mAZ04pZI03vLBlOP_SJiWUzdfSg-Kh2RIw00kEaAhPwEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" alt="jira" width="40" height="40"/> </a> &nbsp; <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/1024px-Slack_icon_2019.svg.png" alt="slack" width="40" height="40"/> </a>  &nbsp; &nbsp;
- </p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+</div>
 
 
 
