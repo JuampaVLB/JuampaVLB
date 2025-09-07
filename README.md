@@ -1,6 +1,6 @@
 # ¡Saludos! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Juan pablo Villalba. 🟡
+¡Bienvenido a mi perfil de GitHub! Soy Juan pablo Villalba. ⚪
 
 <img src="https://github.com/JuampaVLB/JuampaVLB/assets/89561539/4ab8a602-74f5-4125-be1d-df020f6b3b7f" alt="Banner"  />
 
@@ -55,7 +55,6 @@ Soy un desarrollador full Stack web y mobile. Además, soy técnico profesional 
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   &nbsp; &nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="php" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://socket.io/" target="_blank" rel="noreferrer">
-  <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="php" width="40" height="40"/>
 </div>
 
 
@@ -76,18 +75,6 @@ Soy un desarrollador full Stack web y mobile. Además, soy técnico profesional 
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
-
-### Little used
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-</div>
 
 ### Tools
 <div align="left">
